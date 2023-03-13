@@ -4,7 +4,7 @@
 
 1. Créer une paire de clés qui correspond à votre paire de clés
 
-2. Créer un serveur Jenkins avec toutes les dépendances, bibliothèques et packagies nécessaires.
+2. Créer un serveur Jenkins avec toutes les dépendances, bibliothèques et packages nécessaires.
 
 2. Une fois terminé, accédez au serveur Jenkins et configurez-le.
 
